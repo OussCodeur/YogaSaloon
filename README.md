@@ -1,6 +1,6 @@
 # Nom
 
-YogaSalonn
+YogaSaloon
 
 # Technologies 
 
