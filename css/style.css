@@ -25,7 +25,7 @@ section {
     display: inline-block;
     padding: 5px 15px;
     background: white;
-    color: rgb(25, 36, 62);
+    color: #6c8a79;
     border-radius: 50px;
     margin: 0 auto;
     box-shadow: 2px 2px 7px rgba(0, 0, 0, 0.2);
@@ -37,7 +37,7 @@ section {
 
 .btn:hover {
     color: white;
-    background: rgb(25, 36, 62);
+    background: #6c8a79;
 }
 
 .d-flex {
@@ -45,7 +45,7 @@ section {
 }
 
 header {
-    background-image: url('../img/yogamat.jpg');
+    background-image: url('../img/yoga\ green.jpg');
     background-position: center;
     background-size: cover;
     padding: 20px;
@@ -91,14 +91,14 @@ header article {
 }
 
 section h2 {
-    color: #6E8E9B;
+    color: #6c8a79 ;
     font-size: 3rem;
     margin-bottom: 0;
 }
 
 section h2::after {
     content: '';
-    background-color: #6E8E9B;
+    background-color: #6c8a79 ;
     height: 50px;
     width: 3px;
     display: block;
@@ -121,6 +121,7 @@ section .d-flex {
     padding: 20px;
     border-radius: 50px;
     max-width: 88px;
+    color: #6c8a79 !important;
 }
 
 @media screen and (min-width: 991px) {
@@ -175,7 +176,7 @@ section .d-flex {
 }
 
 footer {
-    background: #6E8E9B;
+    background: #6c8a79;
     padding: 20px 0;
     color: white;
     text-align: center;
